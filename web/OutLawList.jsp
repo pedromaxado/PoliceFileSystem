@@ -38,9 +38,8 @@
 
             <div class="row">
 
-                <h1 class="text-center">Miscreant List</h1>
-
-                <div class="col-sm-12">
+                <div class="col-xs-12">
+                    <h2 class="text-center">Miscreant List</h2>
                     <div class="table-responsive">
                         <table class="table table-striped table-bordered">
 

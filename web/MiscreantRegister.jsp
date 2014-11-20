@@ -38,9 +38,9 @@
         </nav>
 
         <div class="container">
-            <h1 class="text-center">Miscreant Register</h1>
             <div class="row">
-                <div class="col-xs-offset-2 col-xs-8">
+                <div class="col-sm-offset-1 col-md-offset-2 col-lg-offset-3 col-xs-12 col-sm-10 col-md-8 col-lg-6">
+                    <h2 class="text-center">Miscreant Register</h2>
                     <form action="mvc" role="form">
 
                         <c:if test="${not empty isNew}">
